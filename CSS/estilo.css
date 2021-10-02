@@ -1,0 +1,30 @@
+/* Codigo CSS*/
+/*
+
+
+Sintaxis 
+selector{
+    propiedad: valor
+    propiedad1:valor
+    propiedad2: valor
+} 
+
+*/
+
+body{
+    background-color: white; /*cambiar el color de fondo del body */
+    
+}
+header{
+    background-color:white; /*cambiar el color de fondo del header */
+}
+main{
+    background-color: white; /*cambiar el color de fondo del main */
+}
+footer{
+    background-color:grey; /*cambiar el color de fondo del footer*/
+}
+
+a{
+    color: black; /* cambiar el color de los href del index*/
+}
